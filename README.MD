@@ -3,4 +3,4 @@
 This is a learning exercise from Lynda.com with Scott Onstott on 3D Architectural Modeling.
 
 
-* 
+* Clean up of 2D files
